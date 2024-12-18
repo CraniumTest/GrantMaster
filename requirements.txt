@@ -1,0 +1,8 @@
+torch
+transformers
+flask
+django
+psycopg2
+requests
+beautifulsoup4
+pandas
